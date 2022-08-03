@@ -3,6 +3,7 @@
 ## Features:
 
 - TailwindCSS
+- NextJS project setup for Github Pages deployment - https://www.youtube.com/watch?v=dalXCXCIPHM
 - Github deploy workflow file referenced from - https://github.com/marketplace/actions/deploy-to-github-pages
 - Syntax highlighting - https://mxd.codes/articles/syntax-highlighting-with-prism-and-next-js
 
