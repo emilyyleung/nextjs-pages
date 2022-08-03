@@ -10,6 +10,10 @@ export default function Blog() {
           rel="icon"
           href={`${process.env.NEXT_PUBLIC_FOLDER}/favicon.ico`}
         />
+        <link
+          href="https://cdnjs.cloudflare.com/ajax/libs/prism-themes/1.9.0/prism-coy-without-shadows.min.css"
+          rel="stylesheet"
+        />
       </Head>
       <div className="py-40 max-w-5xl mx-auto">
         <h1 className="text-6xl text-center font-extrabold text-slate-900 dark:text-slate-100">
